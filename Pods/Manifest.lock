@@ -1,0 +1,26 @@
+PODS:
+  - AMap2DMap (4.1.0):
+    - AMapFoundation (~> 1.0)
+  - AMapFoundation (1.1.0)
+  - AMapLocation (2.1.0):
+    - AMapFoundation (~> 1.1)
+  - AMapSearch (4.1.0):
+    - AMapFoundation (~> 1.0)
+  - BaiduMapKit (3.0.0)
+
+DEPENDENCIES:
+  - AMap2DMap
+  - AMapLocation
+  - AMapSearch
+  - BaiduMapKit
+
+SPEC CHECKSUMS:
+  AMap2DMap: 0950d46480e8fdb38a5170450866aecc6dc8c387
+  AMapFoundation: 15db20567e6512422a086a01b42a88b145bc2500
+  AMapLocation: 343abc9ccd971ad27e459f38b5b082eabebf8792
+  AMapSearch: cb4722480d2d4331a032d43bd1070ed0fa55dac9
+  BaiduMapKit: de2a726d5296d6b2dc0e974b683af73153608dcd
+
+PODFILE CHECKSUM: d3fc542efeaed2c431b136f54353090d91cc69a3
+
+COCOAPODS: 1.2.0.beta.1
